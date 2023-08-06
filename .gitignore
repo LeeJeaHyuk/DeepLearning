@@ -1,7 +1,19 @@
 example_file/
 catboost_info/
 data/
+daconenv/
+aclImdb/
+aclImdb/
+
 baseline.ipynb
+bert01.ipynb
+
+*.zip
+environment.txt
+myenv.md
+
+*.pth
+*.gz
 
 
 
